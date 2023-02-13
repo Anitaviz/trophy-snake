@@ -1,4 +1,5 @@
 # snake
+Snake game built for Trophy games coding test
 
 ## Project setup
 ```

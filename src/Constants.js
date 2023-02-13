@@ -1,0 +1,11 @@
+export const GAME_AREA_WIDTH = 20;
+export const GAME_AREA_HEIGHT = 20;
+export const SNAKE_START_X = 10;
+export const SNAKE_START_Y = 10;
+export const SNAKE_START_DIRECTION = 1;
+export const START_GAME_SPEED = 500;
+export const GAME_MAX_SPEED = 950;
+export const FOOD_SPEED_INCREASE = 10;
+export const FOOD_BASE_VALUE = 10;
+export const MAX_LIVES = 3;
+export const MAX_HIGHSCORES = 10;
